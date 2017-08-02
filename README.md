@@ -1,6 +1,7 @@
 # charts
 
 > A Vue.js project
+> 使用了vuejs，結合chartjs——製作的美麗的Charts
 
 ## Build Setup
 
