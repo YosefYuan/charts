@@ -3,6 +3,8 @@
 > A Vue.js project
 > 使用了vuejs，結合chartjs——製作的美麗的Charts
 
+###https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/
+
 ## Build Setup
 
 ``` bash
